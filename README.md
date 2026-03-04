@@ -12,7 +12,6 @@
 
 [Открыть HTML-версию](https://scintilla083.github.io/Telegram_API_Ru/) •
 [Скачать JSON](./telegram_mtproto_reference_ru.json) •
-[Скачать архив](./telegram_mtproto_reference_ru_bundle.zip)
 
 </div>
 
