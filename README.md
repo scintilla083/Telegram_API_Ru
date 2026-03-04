@@ -11,7 +11,7 @@
 **Полная русскоязычная справка по Telegram MTProto API** на основе официальной TL-схемы, методов, типов и объектов.
 
 [Открыть HTML-версию](https://scintilla083.github.io/Telegram_API_Ru/) •
-[Скачать JSON](./telegram_mtproto_reference_ru.json) •
+[Скачать JSON](./telegram_mtproto_reference_ru.json)
 
 </div>
 
